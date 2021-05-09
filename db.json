@@ -845,56 +845,8 @@
             "country": "USA"
           }
         ]
-      },
-      {
-        "id": 26,
-        "name": "Hatch Green Chile Bacon Burger",
-        "restaurant": "Whataburger",
-        "web": "www.whataburger.com",
-        "description": "burger with hatch green chiles, bacon and cheese",
-        "ingredients": [
-          "beef",
-          "cheese",
-          "bacon",
-          "hatch green chiles",
-          "mayonnaise"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "984",
-            "line1": "388 E Stacy Rd",
-            "line2": "Allen, TX",
-            "postcode": "75002",
-            "country": "USA"
-          }
-        ]
-      },
-      {
-        "id": 27,
-        "name": "The Street Burgers and Coctail Bar Prague 1",
-        "restaurant": "The Street",
-        "web": "www.thestreet.cz",
-        "description": "American, Bar, International, European, Vegetarian Friendly",
-        "ingredients": [
-          "beef",
-          "cheddar cheese",
-          "blue cheese",
-          "onion",
-          "mozzarella",
-          "bacon",
-          "lettuce"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "11",
-            "line1": "Konviktska",
-            "line2": "Prague",
-            "postcode": "110 00",
-            "country": "The Czech Republic"
-          }
-        ]
       }
+      
+      
     ]
   }
