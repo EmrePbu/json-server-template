@@ -1,0 +1,31 @@
+{
+  "name": "json-server-template",
+  "version": "1.0.0",
+  "description": "json server template prepared for use in other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmrePbu/json-server-template.git"
+  },
+  "keywords": [
+    "json",
+    "server",
+    "template",
+    "javascript",
+    "api",
+    "rest-api"
+  ],
+  "author": "pbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmrePbu/json-server-template/issues"
+  },
+  "homepage": "https://github.com/EmrePbu/json-server-template#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
